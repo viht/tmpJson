@@ -23,6 +23,27 @@
     "status":0,
     "accepted_data_policy":true
   },
-  "ownerCompany": {},
-  "workshopLocation": {}
+  "ownerCompany": {
+      "id":"4235-8f34",
+      "company_id":"434-f455",
+      "is_skilled_worker":false,
+      "first_name":false,
+      "last_name":"Will Gorski",
+      "date_of_birth":"",
+      "email":"",
+      "phone_number":"0905395681"
+  },
+  "workshopLocation": {
+  "id":"4235g-434",
+	 "company_id":"bg4-25gss",
+	 "equipped_according_to_guidelines":false,
+	 "only_workshop_van_existing":false,
+	 "street_number":"",
+	 "street_name":"",
+	 "postal_code":"",
+	 "city":"",
+	 "country":"",
+	 "phone_number":"",
+	 "email":""
+  }
 }
