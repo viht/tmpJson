@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "general": {
+    "id":"bg4-25gss",
+    "organization_id":5466,
+    "company_group":0,
+    "type_of_main_company":0,
+    "custom_main_company_type": "Global", 
+    "entry_type":0,
+    "company_name":"Uber",
+    "internal_assignee_id":2433,
+    "internal_assignee_name":"Woftlgang Smith",
+    "street_number":"",
+    "street_name":"",
+    "postal_code":"3444",
+    "city":"",
+    "country":"DE",
+    "phone_number":"",
+    "fax_number":"",
+    "email":"enercity@info.com",
+    "website":"",
+    "request_date":"2019-09-20 10:03:32",
+    "approval_date":"2019-09-20 10:03:32",
+    "status":0,
+    "accepted_data_policy":true
+  },
+  "ownerCompany": {},
+  "workshopLocation": {}
 }
