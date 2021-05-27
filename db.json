@@ -6,7 +6,7 @@
     "type_of_main_company":0,
     "custom_main_company_type": "Global", 
     "entry_type":0,
-    "company_name":"Uber",
+    "company_name":"Enercity",
     "internal_assignee_id":2433,
     "internal_assignee_name":"Woftlgang Smith",
     "street_number":"",
@@ -34,16 +34,16 @@
       "phone_number":"0905395681"
   },
   "workshopLocation": {
-  "id":"4235g-434",
-	 "company_id":"bg4-25gss",
-	 "equipped_according_to_guidelines":false,
-	 "only_workshop_van_existing":false,
-	 "street_number":"",
-	 "street_name":"",
-	 "postal_code":"",
-	 "city":"",
-	 "country":"",
-	 "phone_number":"",
-	 "email":""
+      "id":"4235g-434",
+      "company_id":"bg4-25gss",
+      "equipped_according_to_guidelines":false,
+      "only_workshop_van_existing":false,
+      "street_number":"",
+      "street_name":"",
+      "postal_code":"",
+      "city":"",
+      "country":"",
+      "phone_number":"",
+      "email":""
   }
 }
